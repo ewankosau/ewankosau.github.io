@@ -17,10 +17,10 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
 }]), app.run(["$rootScope", "$state", "firebase", function(a, b, c) {
   a.settings = {}, a.$state = b;
   var d = {
-    apiKey: "AIzaSyAR0s-aKQn23_igJ99kE82Fjms2e7B4bBU",
-    authDomain: "willbo-kulet.firebaseapp.com",
-    databaseURL: "https://willbo-kulet.firebaseio.com",
-    storageBucket: "willbo-kulet.appspot.com"
+    apiKey: "AIzaSyAypMC9Ecqfx7Y_3ErpbaN6JDYvhvUbZgE",
+    authDomain: "ewankosau-511fa.firebaseapp.com",
+    databaseURL: "https://ewankosau-511fa.firebaseio.com/",
+    storageBucket: "ewankosau-511fa.appspot.com"
   };
   c.initializeApp(d)
 }]), app.controller("MvpCtrl", ["$scope", "$rootScope", "$timeout", "$state", "DataSrv", "webNotification", "time", function(a, b, c, d, e, f, g) {
