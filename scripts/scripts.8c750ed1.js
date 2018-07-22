@@ -220,14 +220,6 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
         max: 22200
       }
     }, {
-      id: 1630,
-      map: "lou_dun03",
-      name: "White Lady",
-      respawn: {
-        min: 7020,
-        max: 7620
-      }
-    }, {
       id: 1039,
       map: "prt_maze03",
       name: "Baphomet",
@@ -238,7 +230,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1873,
       map: "abbey03",
-      name: "Beelzebub *BIG*",
+      name: "Beelzebub <BIG>",
       respawn: {
         min: 36000,
         max: 50400
@@ -246,7 +238,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1646,
       map: "lhz_dun03",
-      name: "Bio 3 MVP *BIG*",
+      name: "Bio 3 MVP <BIG>",
       respawn: {
         min: 6e3,
         max: 7800
@@ -254,7 +246,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 2231,
       map: "lhz_dun04",
-      name: "Bio 4 MVP *BIG*",
+      name: "Bio 4 MVP <BIG>",
       respawn: {
         min: 6e3,
         max: 7800
@@ -396,6 +388,14 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
         max: 18900
       }
     }, {
+      id: 2165,
+      map: "dic_dun03",
+      name: "Gold Queen Scaraba [GQS]",
+      respawn: {
+        min: 7200,
+        max: 7260
+      }
+	}, {
       id: 1086,
       map: "prt_sewb4",
       name: "Golden Thief Bug [GTB]",
@@ -572,14 +572,6 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
         max: 7260
       }
     }, {
-      id: 2165,
-      map: "dic_dun03",
-      name: "Gold Queen Scaraba [GQS]",
-      respawn: {
-        min: 7200,
-        max: 7260
-      }
-    }, {
       id: 1623,
       map: "ein_dun02",
       name: "RSX-0806",
@@ -651,10 +643,18 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
         min: 2700,
         max: 4500
       }
+	}, {
+      id: 1630,
+      map: "lou_dun03",
+      name: "White Lady",
+      respawn: {
+        min: 7020,
+        max: 7620
+      }
     }, {
       id: 1751,
       map: "odin_tem03",
-      name: "Valkyrie Randgris [VR] *BIG*",
+      name: "Valkyrie Randgris [VR] <BIG>",
       respawn: {
         min: 28800,
         max: 50400
@@ -670,7 +670,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1917,
       map: "moc_fild22",
-      name: "Wounded Morroc [WM] *BIG*",
+      name: "Wounded Morroc [WM] <BIG>",
       respawn: {
         min: 43200,
         max: 54e3
