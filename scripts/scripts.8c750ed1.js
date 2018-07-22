@@ -230,7 +230,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1873,
       map: "abbey03",
-      name: "Beelzebub <BIG>",
+      name: "Beelzebub *BIG*",
       respawn: {
         min: 36000,
         max: 50400
@@ -238,7 +238,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1646,
       map: "lhz_dun03",
-      name: "Bio 3 MVP <BIG>",
+      name: "Bio 3 MVP *BIG*",
       respawn: {
         min: 6e3,
         max: 7800
@@ -246,7 +246,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 2231,
       map: "lhz_dun04",
-      name: "Bio 4 MVP <BIG>",
+      name: "Bio 4 MVP *BIG*",
       respawn: {
         min: 6e3,
         max: 7800
@@ -422,7 +422,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1832,
       map: "thor_v03",
-      name: "Ifrit",
+      name: "Ifrit *BIG*",
       respawn: {
         min: 32400,
         max: 46800
@@ -462,7 +462,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1688,
       map: "ayo_dun02",
-      name: "Lady Tanee",
+      name: "Lady Tanee [LT]",
       respawn: {
         min: 21600,
         max: 28800
@@ -646,7 +646,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
 	}, {
       id: 1630,
       map: "lou_dun03",
-      name: "White Lady",
+      name: "White Lady [WL]",
       respawn: {
         min: 7020,
         max: 7620
@@ -654,7 +654,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1751,
       map: "odin_tem03",
-      name: "Valkyrie Randgris [VR] <BIG>",
+      name: "Valkyrie Randgris [VR] *BIG*",
       respawn: {
         min: 28800,
         max: 50400
@@ -670,7 +670,7 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
     }, {
       id: 1917,
       map: "moc_fild22",
-      name: "Wounded Morroc [WM] <BIG>",
+      name: "Wounded Morroc [WM] *BIG*",
       respawn: {
         min: 43200,
         max: 54e3
