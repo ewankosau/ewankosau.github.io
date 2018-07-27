@@ -584,8 +584,8 @@ app.config(["$stateProvider", "$urlRouterProvider", "localStorageServiceProvider
       map: "moc_fild21",
       name: "Satan Morroc [SM]",
       respawn: {
-        min: 43200,
-        max: 54e3
+        min: 36000,
+        max: 43200
       }
     }, {
       id: 1251,
